@@ -1,0 +1,12 @@
+# Dataset'ler ve büyük dosyalar (Kaggledan indirilebilir)
+data/*.csv
+data/*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+.env
+
+# VSCode ayarları
+.vscode/
+.DS_Store
